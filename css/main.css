@@ -11,6 +11,17 @@ h1, h2, h3{
 	color: #79756f;
 }
 
+.planets{
+	color: white;
+}
+
+h1 {
+	background-color: #79756f;
+	padding: 10px 50px 75px;
+	margin: 10px;
+	text-align: center;
+}
+
 a {
 	color: #713754;
 
