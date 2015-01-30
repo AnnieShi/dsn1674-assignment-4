@@ -1,6 +1,6 @@
 html{
 	background-color: #dbd6cf;
-	font-family: "Arial", sans serif;
+	font-family: "Arial", sansserif;
 	line-height: 1.5rem;
 }
 
@@ -50,7 +50,7 @@ span {
 footer {
 	text-align: right;
 	font-family: "Lora", serif;
-	font-style: italic:;
+	font-style: italic;
 	color: #89837d;
 }
 
